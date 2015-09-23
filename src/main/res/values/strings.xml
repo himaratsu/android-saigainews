@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<resources>
+    <string name="parse_app_id">ETenzra1ZZBtb3jEn3A7imJqynEKmoBfDNcNjh36</string>
+    <string name="parse_client_key">bK2ScdEziuzSvrGKmAag2uIS9JYLZ71avThU2d4x</string>
+
+    <string name="app_name">災害情報まとめ</string>
+
+    <string name="title_section1">ニュース</string>
+    <string name="title_section2">災害情報</string>
+    <string name="title_section3">内閣府発表</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+
+</resources>

@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:10:1-79:12
+	xmlns:android
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:10:11-69
+	package
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:11:5-37
+		INJECTED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml
+		INJECTED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml
+		INJECTED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml
+		INJECTED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:15:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:16:22-63
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:17:5-71
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:17:22-68
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:18:5-82
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:18:22-79
+permission#in.mashroom.saigainews.permission.C2D_MESSAGE
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:20:5-21:72
+	android:protectionLevel
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:20:17-52
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:21:9-69
+uses-permission#in.mashroom.saigainews.permission.C2D_MESSAGE
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:22:5-85
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:22:22-82
+application
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:24:5-77:19
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:6.5.87] /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:28:9-41
+	android:allowBackup
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:26:9-35
+	android:icon
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:27:9-43
+	android:theme
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:29:9-40
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:25:9-43
+meta-data#com.google.android.gms.version
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:30:9-31:69
+MERGED from [com.google.android.gms:play-services:6.5.87] /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/AndroidManifest.xml:21:9-23:69
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:30:20-65
+	android:value
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:31:13-66
+meta-data#com.parse.push.notification_icon
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:32:9-109
+	android:resource
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:32:68-107
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:32:20-67
+meta-data#smallIcon
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:33:9-86
+	android:resource
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:33:45-84
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:33:20-44
+meta-data#notificationOverlap
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:34:9-74
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:34:20-54
+	android:value
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:34:55-72
+meta-data#com.parse.APPLICATION_ID
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:36:9-38:52
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:37:13-52
+	android:value
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:38:13-49
+meta-data#com.parse.CLIENT_KEY
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:39:9-41:56
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:40:13-48
+	android:value
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:41:13-53
+activity#in.mashroom.saigainews.MainActivity
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:43:9-51:20
+	android:label
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:45:13-33
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:44:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:49:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:52:9-54:64
+	android:configChanges
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:53:13-122
+	android:theme
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:54:13-61
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:52:19-71
+service#com.parse.PushService
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:56:9-57
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:56:18-54
+receiver#com.parse.ParsePushBroadcastReceiver
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:57:9-64:20
+	android:exported
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:57:19-70
+intent-filter#com.parse.push.intent.DELETE+com.parse.push.intent.OPEN+com.parse.push.intent.RECEIVE
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:59:13-63:29
+action#com.parse.push.intent.RECEIVE
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:60:17-72
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:60:25-69
+action#com.parse.push.intent.DELETE
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:61:17-71
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:61:25-68
+action#com.parse.push.intent.OPEN
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:62:17-69
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:62:25-66
+receiver#com.parse.GcmBroadcastReceiver
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:65:9-76:20
+	android:permission
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:66:13-73
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:65:19-64
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+in.mashroom.saigainews
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:67:13-75:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:68:17-81
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:68:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:69:17-86
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:69:25-83
+category#in.mashroom.saigainews
+ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:74:17-67
+	android:name
+		ADDED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml:74:27-64
+uses-sdk
+INJECTED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:6.5.87] /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml
+		INJECTED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml
+		INJECTED from /Users/himara2/Documents/android/SekaowaNews/SaigaiNews/src/main/AndroidManifest.xml
